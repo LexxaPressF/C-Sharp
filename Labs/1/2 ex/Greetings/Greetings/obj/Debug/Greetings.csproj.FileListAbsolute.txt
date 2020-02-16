@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\1\2 ex\Greetings\Greetings\bin\Debug\Greetings.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\1\2 ex\Greetings\Greetings\bin\Debug\Greetings.exe
+G:\11111111111111111111111111\Study\C#\Labs\1\2 ex\Greetings\Greetings\bin\Debug\Greetings.pdb
+G:\11111111111111111111111111\Study\C#\Labs\1\2 ex\Greetings\Greetings\obj\Debug\Greetings.exe
+G:\11111111111111111111111111\Study\C#\Labs\1\2 ex\Greetings\Greetings\obj\Debug\Greetings.pdb
+G:\11111111111111111111111111\Study\C#\Labs\1\2 ex\Greetings\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
