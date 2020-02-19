@@ -1,0 +1,6 @@
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\1\4 ex\Divider\Divider\bin\Debug\Divider.exe.config
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\1\4 ex\Divider\Divider\bin\Debug\Divider.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\1\4 ex\Divider\Divider\bin\Debug\Divider.pdb
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\1\4 ex\Divider\Divider\obj\Debug\Divider.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\1\4 ex\Divider\Divider\obj\Debug\Divider.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\1\4 ex\Divider\Divider\obj\Debug\Divider.pdb
