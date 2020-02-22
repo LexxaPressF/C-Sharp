@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Calc_switch\Calc_switch\bin\Debug\Calc_switch.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Calc_switch\Calc_switch\bin\Debug\Calc_switch.pdb
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Calc_switch\Calc_switch\obj\Debug\Calc_switch.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Calc_switch\Calc_switch\obj\Debug\Calc_switch.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Calc_switch\Calc_switch\obj\Debug\Calc_switch.pdb

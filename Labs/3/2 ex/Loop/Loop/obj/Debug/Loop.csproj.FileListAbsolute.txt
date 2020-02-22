@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.pdb
+G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.pdb
+G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache

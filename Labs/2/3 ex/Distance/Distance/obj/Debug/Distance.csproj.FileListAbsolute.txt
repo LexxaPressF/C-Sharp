@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\2\3 ex\Distance\Distance\obj\Debug\Distance.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\Labs\2\3 ex\Distance\Distance\bin\Debug\Distance.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\2\3 ex\Distance\Distance\bin\Debug\Distance.exe
+G:\11111111111111111111111111\Study\C#\Labs\2\3 ex\Distance\Distance\bin\Debug\Distance.pdb
+G:\11111111111111111111111111\Study\C#\Labs\2\3 ex\Distance\Distance\obj\Debug\Distance.exe
+G:\11111111111111111111111111\Study\C#\Labs\2\3 ex\Distance\Distance\obj\Debug\Distance.pdb

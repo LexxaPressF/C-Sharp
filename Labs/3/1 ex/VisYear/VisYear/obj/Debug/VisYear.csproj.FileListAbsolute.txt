@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\VisYear\VisYear\bin\Debug\VisYear.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\VisYear\VisYear\bin\Debug\VisYear.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\VisYear\VisYear\bin\Debug\VisYear.pdb
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\VisYear\VisYear\obj\Debug\VisYear.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\VisYear\VisYear\obj\Debug\VisYear.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\VisYear\VisYear\obj\Debug\VisYear.pdb

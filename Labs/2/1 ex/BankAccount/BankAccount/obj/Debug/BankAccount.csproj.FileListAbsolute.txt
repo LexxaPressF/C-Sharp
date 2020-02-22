@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\2\1 ex\BankAccount\BankAccount\bin\Debug\BankAccount.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\2\1 ex\BankAccount\BankAccount\bin\Debug\BankAccount.exe
+G:\11111111111111111111111111\Study\C#\Labs\2\1 ex\BankAccount\BankAccount\bin\Debug\BankAccount.pdb
+G:\11111111111111111111111111\Study\C#\Labs\2\1 ex\BankAccount\BankAccount\obj\Debug\BankAccount.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\Labs\2\1 ex\BankAccount\BankAccount\obj\Debug\BankAccount.exe
+G:\11111111111111111111111111\Study\C#\Labs\2\1 ex\BankAccount\BankAccount\obj\Debug\BankAccount.pdb

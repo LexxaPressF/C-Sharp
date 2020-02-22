@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe.config
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Shapeifelse\Shapeifelse\bin\Debug\Shapeifelse.pdb
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.exe
+G:\11111111111111111111111111\Study\C#\Labs\3\1 ex\Shapeifelse\Shapeifelse\obj\Debug\Shapeifelse.pdb
