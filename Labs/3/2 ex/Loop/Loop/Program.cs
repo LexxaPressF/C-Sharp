@@ -36,20 +36,46 @@ namespace Loop
                 Console.Write(" " + i);
             }
             */
+            //Постусловие
+            Console.WriteLine("------Постусловие------");
             double x, x1, x2, y; //Аргументы
             Console.Write("Введите аргумент x1: ");
             x1 = double.Parse(Console.ReadLine());
             Console.Write("Введите аргумент x2: ");
-            x2 = double.Parse(Console.ReadLine());
+            x2 = double.Parse(Console.ReadLine());  //Получение аргументов
             Console.Write("Sin(x)");
             x = x1;
-            do
+            do                      //Вначале действие
             {
                 y = Math.Sin(x);
-                Console.Write("\t" + y + " ");
+                Console.WriteLine("\t{0}", y);
                 x = x + 0.01;
             }
-            while (x <= x2);
+            while (x <= x2); //Условие продолжения
+            Console.Write("\n");
+            //Предусловие
+            Console.WriteLine("------Предусловие------");
+            double temp, a, b; //Аргументы
+            string temp1; //Для хранения измененых данных
+            Console.Write("Введите аргумент a: ");
+            a = double.Parse(Console.ReadLine());
+            Console.Write("Введите аргумент b: ");
+            b = double.Parse(Console.ReadLine());  //Получение аргументов
+            temp1 = a + " и " + b;
+            temp = a;
+            while (temp != b)  //Условие начала и продолжения
+            {                  //Действие
+                a = temp;
+                if (a < b)
+                {
+                    temp = a;
+                    a = b;
+                    b = temp;
+                }
+                temp = a - b;
+                a = b;
+            }
+            Console.WriteLine("НОД от {0} = {1}", temp1, a);
         }
     }
 }

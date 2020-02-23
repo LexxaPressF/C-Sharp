@@ -4,3 +4,9 @@ G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.pdb
 G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.exe
 G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.pdb
 G:\11111111111111111111111111\Study\C#\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.exe.config
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Loop\Loop\bin\Debug\Loop.pdb
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Loop\Loop\obj\Debug\Loop.pdb

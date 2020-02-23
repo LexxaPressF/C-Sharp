@@ -1,0 +1,11 @@
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\bin\Debug\netcoreapp3.1\Summa.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\bin\Debug\netcoreapp3.1\Summa.deps.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\bin\Debug\netcoreapp3.1\Summa.runtimeconfig.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\bin\Debug\netcoreapp3.1\Summa.runtimeconfig.dev.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\bin\Debug\netcoreapp3.1\Summa.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\bin\Debug\netcoreapp3.1\Summa.pdb
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\obj\Debug\netcoreapp3.1\Summa.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\obj\Debug\netcoreapp3.1\Summa.AssemblyInfoInputs.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\obj\Debug\netcoreapp3.1\Summa.AssemblyInfo.cs
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\obj\Debug\netcoreapp3.1\Summa.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\3\2 ex\Summa\Summa\obj\Debug\netcoreapp3.1\Summa.pdb
