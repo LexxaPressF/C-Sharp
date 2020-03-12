@@ -9,3 +9,14 @@ C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreap
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.dll
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.dev.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

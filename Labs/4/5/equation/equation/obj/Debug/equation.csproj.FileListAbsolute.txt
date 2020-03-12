@@ -1,0 +1,6 @@
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\5\equation\equation\bin\Debug\equation.exe.config
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\5\equation\equation\bin\Debug\equation.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\5\equation\equation\bin\Debug\equation.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\5\equation\equation\obj\Debug\equation.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\5\equation\equation\obj\Debug\equation.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\4\5\equation\equation\obj\Debug\equation.pdb

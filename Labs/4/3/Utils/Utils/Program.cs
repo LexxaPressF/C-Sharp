@@ -21,15 +21,22 @@ namespace Utils
             //Упражнение 3
             int f;
             bool ok;
-            Console.WriteLine("Число для факториала:");
-            int x = int.Parse(Console.ReadLine());
-            //Проверка метода Factorial
-            ok = Utils.Factorial(x, out f); //Вызов метода
-            // Запись в переменную f значения answer внутри метода
-            if (ok)
-                Console.WriteLine(x + "! = " + f);
-            else
-                Console.WriteLine("Не хватает мщности чтобы сосчитать этот факториал");
+            try
+            {
+                Console.WriteLine("Число для факториала:");
+                int x = int.Parse(Console.ReadLine());
+                //Проверка метода Factorial
+                ok = Utils.Factorial(x, out f); //Вызов метода
+                                                // Запись в переменную f значения answer внутри метода
+                if (ok)
+                    Console.WriteLine(x + "! = " + f);
+                else
+                    Console.WriteLine("Не хватает мщности чтобы сосчитать этот факториал");
+            }
+            catch(Exception e)
+            {
+                Console.Write("Ошибка: " + e);
+            }
 
         }
     }

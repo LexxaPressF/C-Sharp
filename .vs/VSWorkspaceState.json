@@ -2,15 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Labs",
-    "\\Labs\\1",
-    "\\Labs\\1\\2 ex",
-    "\\Labs\\1\\2 ex\\Greetings",
-    "\\Labs\\1\\2 ex\\Greetings\\Greetings",
-    "\\Labs\\1\\4 ex",
-    "\\Labs\\1\\4 ex\\Divider",
-    "\\Labs\\4\\3",
-    "\\Labs\\4\\3\\Utils"
+    "\\Labs\\4",
+    "\\Labs\\4\\3\\Utils",
+    "\\Labs\\4\\3\\Utils\\Utils",
+    "\\Labs\\4\\4\\Triangle",
+    "\\Labs\\4\\4\\Triangle\\Triangle",
+    "\\Labs\\4\\5",
+    "\\Labs\\4\\5\\equation",
+    "\\Labs\\4\\5\\equation\\equation"
   ],
-  "SelectedNode": "\\Labs",
+  "SelectedNode": "\\Labs\\4\\5\\equation\\equation.sln",
   "PreviewInSolutionExplorer": false
 }
