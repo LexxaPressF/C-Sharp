@@ -1,0 +1,11 @@
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.dev.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\4\3\Utils\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

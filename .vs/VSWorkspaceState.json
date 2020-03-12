@@ -2,10 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Labs",
-    "\\Labs\\3",
-    "\\Labs\\3\\2 ex",
-    "\\Labs\\3\\2 ex\\Loop"
+    "\\Labs\\1",
+    "\\Labs\\1\\2 ex",
+    "\\Labs\\1\\2 ex\\Greetings",
+    "\\Labs\\1\\2 ex\\Greetings\\Greetings",
+    "\\Labs\\1\\4 ex",
+    "\\Labs\\1\\4 ex\\Divider",
+    "\\Labs\\4\\3",
+    "\\Labs\\4\\3\\Utils"
   ],
-  "SelectedNode": "\\Labs\\3\\2 ex\\Loop\\Loop.sln",
+  "SelectedNode": "\\Labs",
   "PreviewInSolutionExplorer": false
 }
