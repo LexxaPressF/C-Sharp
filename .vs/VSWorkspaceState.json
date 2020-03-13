@@ -2,14 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\Labs",
+    "\\Labs\\1\\4 ex\\Divider",
+    "\\Labs\\1\\4 ex\\Divider\\Divider",
+    "\\Labs\\3\\1 ex",
+    "\\Labs\\3\\1 ex\\Shapeifelse",
+    "\\Labs\\3\\1 ex\\VisYear",
+    "\\Labs\\3\\1 ex\\VisYear\\VisYear",
     "\\Labs\\4",
-    "\\Labs\\4\\3\\Utils",
-    "\\Labs\\4\\3\\Utils\\Utils",
-    "\\Labs\\4\\4\\Triangle",
-    "\\Labs\\4\\4\\Triangle\\Triangle",
-    "\\Labs\\4\\5",
-    "\\Labs\\4\\5\\equation",
-    "\\Labs\\4\\5\\equation\\equation"
+    "\\Labs\\4\\5"
   ],
   "SelectedNode": "\\Labs\\4\\5\\equation\\equation.sln",
   "PreviewInSolutionExplorer": false
