@@ -1,0 +1,11 @@
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.deps.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.runtimeconfig.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.runtimeconfig.dev.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.pdb
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.AssemblyInfoInputs.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.AssemblyInfo.cs
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.pdb
