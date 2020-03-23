@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\Labs",
-    "\\Labs\\6",
-    "\\Labs\\6\\1",
-    "\\Labs\\6\\1\\MyClass",
-    "\\Labs\\6\\1\\MyClass\\MyClass"
+    "\\Labs\\7",
+    "\\Labs\\7\\1",
+    "\\Labs\\7\\1\\MyClass",
+    "\\Labs\\7\\1\\MyClass\\MyClass"
   ],
-  "SelectedNode": "\\Labs\\6\\1\\MyClass\\MyClass\\Book.cs",
+  "SelectedNode": "\\Labs\\7\\1\\MyClass\\MyClass.sln",
   "PreviewInSolutionExplorer": false
 }

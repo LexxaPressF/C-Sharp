@@ -9,3 +9,9 @@ C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcorea
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfoInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.AssemblyInfo.cs
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\1 ex\Loop\Loop\obj\Debug\netcoreapp3.1\Loop.pdb
