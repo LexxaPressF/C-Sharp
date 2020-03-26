@@ -3,10 +3,11 @@
     "",
     "\\Labs",
     "\\Labs\\7",
-    "\\Labs\\7\\1",
     "\\Labs\\7\\1\\MyClass",
-    "\\Labs\\7\\1\\MyClass\\MyClass"
+    "\\Labs\\7\\1\\MyClass\\MyClass",
+    "\\Labs\\7\\7",
+    "\\Labs\\7\\7\\Progression"
   ],
-  "SelectedNode": "\\Labs\\7\\1\\MyClass\\MyClass.sln",
+  "SelectedNode": "\\Labs\\7\\7\\Progression\\Progression.sln",
   "PreviewInSolutionExplorer": false
 }

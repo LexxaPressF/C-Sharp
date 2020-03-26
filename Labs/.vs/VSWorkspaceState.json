@@ -1,11 +1,17 @@
 {
   "ExpandedNodes": [
     "",
-    "\\5",
     "\\5\\2 ex",
     "\\5\\2 ex\\MatrixMultiply",
-    "\\5\\3 ex"
+    "\\5\\3 ex",
+    "\\7",
+    "\\7\\1\\MyClass",
+    "\\7\\7",
+    "\\8",
+    "\\8\\1",
+    "\\8\\1\\MyClass",
+    "\\8\\1\\MyClass\\MyClass"
   ],
-  "SelectedNode": "\\5\\2 ex\\MatrixMultiply\\MatrixMultiply.sln",
+  "SelectedNode": "\\8\\1\\MyClass\\MyClass\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
