@@ -2,12 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\Labs",
-    "\\Labs\\7",
-    "\\Labs\\7\\1\\MyClass",
-    "\\Labs\\7\\1\\MyClass\\MyClass",
-    "\\Labs\\7\\7",
-    "\\Labs\\7\\7\\Progression"
+    "\\Labs\\8\\1",
+    "\\Labs\\8\\1\\MyClass",
+    "\\Labs\\8\\1\\MyClass\\MyClass",
+    "\\Labs\\9",
+    "\\Labs\\9\\1",
+    "\\Labs\\9\\1\\Bibl",
+    "\\Labs\\9\\1\\MyClass",
+    "\\Labs\\9\\1\\MyClass\\MyClass"
   ],
-  "SelectedNode": "\\Labs\\7\\7\\Progression\\Progression.sln",
+  "SelectedNode": "\\Labs\\9\\1\\MyClass\\MyClass.sln",
   "PreviewInSolutionExplorer": false
 }
