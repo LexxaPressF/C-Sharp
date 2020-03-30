@@ -19,3 +19,7 @@ G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\1\MyClass\MyClass\obj\Debu
 G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\1\MyClass\MyClass\bin\Debug\MyClass.exe.config
 G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\1\MyClass\MyClass\bin\Debug\MyClass.exe
 G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\1\MyClass\MyClass\bin\Debug\MyClass.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\MyClass\MyClass\obj\Debug\MyClass.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\MyClass\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\MyClass\MyClass\obj\Debug\MyClass.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\MyClass\MyClass\obj\Debug\MyClass.pdb

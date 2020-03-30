@@ -6,3 +6,4 @@ G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Debug\nets
 G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Debug\netstandard2.0\Bibl.AssemblyInfo.cs
 G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Debug\netstandard2.0\Bibl.dll
 G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Debug\netstandard2.0\Bibl.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Debug\netstandard2.0\Bibl.csprojAssemblyReference.cache
