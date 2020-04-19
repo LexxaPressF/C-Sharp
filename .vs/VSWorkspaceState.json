@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Practic"
+    "\\Practic",
+    "\\Practic\\1-2",
+    "\\Practic\\1-2\\casino"
   ],
-  "SelectedNode": "\\Practic\\1-2",
+  "SelectedNode": "\\Practic\\1-2\\casino\\casino.sln",
   "PreviewInSolutionExplorer": false
 }

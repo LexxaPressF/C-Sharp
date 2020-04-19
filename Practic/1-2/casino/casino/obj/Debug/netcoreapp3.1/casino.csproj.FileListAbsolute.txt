@@ -11,3 +11,14 @@ G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Deb
 G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.dll
 G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.pdb
 G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.genruntimeconfig.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\bin\Debug\netcoreapp3.1\casino.exe
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\bin\Debug\netcoreapp3.1\casino.deps.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\bin\Debug\netcoreapp3.1\casino.runtimeconfig.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\bin\Debug\netcoreapp3.1\casino.runtimeconfig.dev.json
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\bin\Debug\netcoreapp3.1\casino.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\bin\Debug\netcoreapp3.1\casino.pdb
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.csprojAssemblyReference.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.AssemblyInfoInputs.cache
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.AssemblyInfo.cs
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.dll
+C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\1-2\casino\casino\obj\Debug\netcoreapp3.1\casino.pdb
