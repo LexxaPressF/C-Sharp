@@ -9,3 +9,16 @@ C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_process
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.AssemblyInfo.cs
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.dll
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.deps.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.runtimeconfig.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.runtimeconfig.dev.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\bin\Debug\netcoreapp3.1\Data_processing.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.AssemblyInfoInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.AssemblyInfo.cs
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\5\3 ex\Data_processing\Data_processing\obj\Debug\netcoreapp3.1\Data_processing.genruntimeconfig.cache

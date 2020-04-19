@@ -1,0 +1,7 @@
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\obj\Debug\Triangle.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\obj\Debug\Triangle.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\bin\Debug\Triangle.exe.config
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\bin\Debug\Triangle.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\bin\Debug\Triangle.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\obj\Debug\Triangle.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\6\3\Triangle\Triangle\obj\Debug\Triangle.pdb

@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\79062\\.nuget\\packages\\": {}
+    "C:\\Users\\Волен Дэ Морт\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Labs\\5\\2 ex\\MatrixMultiply\\MatrixMultiply\\MatrixMultiply.csproj",
+      "projectUniqueName": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Labs\\5\\2 ex\\MatrixMultiply\\MatrixMultiply\\MatrixMultiply.csproj",
       "projectName": "MatrixMultiply",
-      "projectPath": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Labs\\5\\2 ex\\MatrixMultiply\\MatrixMultiply\\MatrixMultiply.csproj",
-      "packagesPath": "C:\\Users\\79062\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Labs\\5\\2 ex\\MatrixMultiply\\MatrixMultiply\\obj\\",
+      "projectPath": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Labs\\5\\2 ex\\MatrixMultiply\\MatrixMultiply\\MatrixMultiply.csproj",
+      "packagesPath": "C:\\Users\\Волен Дэ Морт\\.nuget\\packages\\",
+      "outputPath": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Labs\\5\\2 ex\\MatrixMultiply\\MatrixMultiply\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\79062\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Волен Дэ Морт\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

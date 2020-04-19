@@ -76,8 +76,8 @@ namespace Loop
             }
             Console.WriteLine("НОД от {0} = {1}", temp1, a);
             */
-            // 5 лаба
-            /*Старый массив и его вывод
+             5 лаба
+            Старый массив и его вывод
             int i;
             int[] myArray = { 100, 1, 32, 3, 14, 25, 6, 17, 8, 99 };
             for (i = 0; i < myArray.Length - 1; i++) //Вывод массива
@@ -85,7 +85,7 @@ namespace Loop
                 if (myArray[i] % 2 == 0) { myArray[i] = 0; } //Контроль четности
                 Console.WriteLine(i + "-й элемент массива: " + myArray[i]);
             }
-            */
+            
             //Новый
             int[] myArray;
             Console.Write("Введите кол-во элементов массива:");

@@ -1,0 +1,14 @@
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\bin\Debug\Progression.exe.config
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\bin\Debug\Progression.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\bin\Debug\Progression.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\obj\Debug\Progression.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\obj\Debug\Progression.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\obj\Debug\Progression.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\7\7\Progression\Progression\obj\Debug\Progression.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\bin\Debug\Progression.exe.config
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\bin\Debug\Progression.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\bin\Debug\Progression.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\obj\Debug\Progression.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\obj\Debug\Progression.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\obj\Debug\Progression.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\8\4\Progression\Progression\obj\Debug\Progression.pdb

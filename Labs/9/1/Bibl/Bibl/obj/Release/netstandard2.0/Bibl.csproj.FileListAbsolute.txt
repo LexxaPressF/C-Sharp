@@ -1,0 +1,8 @@
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\bin\Release\netstandard2.0\Bibl.deps.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\bin\Release\netstandard2.0\Bibl.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\bin\Release\netstandard2.0\Bibl.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Release\netstandard2.0\Bibl.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Release\netstandard2.0\Bibl.AssemblyInfoInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Release\netstandard2.0\Bibl.AssemblyInfo.cs
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Release\netstandard2.0\Bibl.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Labs\9\1\Bibl\Bibl\obj\Release\netstandard2.0\Bibl.pdb
