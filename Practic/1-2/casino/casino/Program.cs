@@ -29,11 +29,21 @@ namespace casino
                 odd = rnd_numb.Next(0, 666) % 2; //Изменение случайного числа
                 Console.WriteLine("У вас есть " + capital + "$\nСколько поставите?");
                 money_bet = float.Parse(Console.ReadLine());
-                Console.WriteLine("У вас есть " + capital + "$\nНа что поставите? (четное - 0; нечетное - 1)");
-                choice = int.Parse(Console.ReadLine());
-                Point:
-                switch (choice)
+                while (money_bet > capital)
                 {
+                    Console.WriteLine("Введите ставку не превыщающую размер вашего капитала: ");
+                    money_bet = float.Parse(Console.ReadLine());
+                }
+               while (money_bet <= 0)
+                {
+                    Console.WriteLine("Введите положительную ставку: ");
+                    money_bet = float.Parse(Console.ReadLine());
+                }
+                Console.WriteLine("На что поставите? (четное - 0; нечетное - 1)");
+                Point:
+                choice = int.Parse(Console.ReadLine());
+                switch (choice)
+                { 
                     case 0: Console.WriteLine("Ваш выбор: " + money_bet + "$ на четное"); break;
                     case 1: Console.WriteLine("Ваш выбор: " + money_bet + "$ на нечетное"); break;
                     default: Console.WriteLine("ВВедите верное значение"); goto Point;
@@ -54,10 +64,17 @@ namespace casino
             }
             void End()
             {
-                Console.WriteLine("Вы проиграли: ваш баланс = " + capital + "$");
+                Console.WriteLine("Игра закончена, ваш баланс = " + capital + "$");
                 Console.WriteLine("Спасибо за игру");
             }
+            try
+            {
             Play();
+            }
+            catch (Exception e)
+            {
+                Console.WriteLine(e.Message);
+            }
         }
     }
 }
