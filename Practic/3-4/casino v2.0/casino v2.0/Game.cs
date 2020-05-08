@@ -16,13 +16,13 @@ namespace casino_v2._0
 
         //Методы
         public void Start()
-        {
-            do if (Bet() == true) player.capital += money_bet; else player.capital -= money_bet;
+        {//Начало и цикл игры
+            do if (Bet() == true) { player.capital += money_bet; player.bet_count += 1; } else player.capital -= money_bet;
             while (choice_cont == 'y' && player.capital > 0);
             player.Get_info();
         }
         bool Bet()
-        {
+        {//Процесс ставки
             odd = rnd_numb.Next(0, 666) % 2; //Изменение случайного числа
             Console.WriteLine(player.name + ", вы имеете " + player.capital + "$\nСколько поставите?");
             money_bet = float.Parse(Console.ReadLine());
