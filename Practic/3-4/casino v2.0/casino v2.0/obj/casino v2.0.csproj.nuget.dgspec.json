@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj": {}
+    "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj": {}
   },
   "projects": {
-    "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj": {
+    "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj",
+        "projectUniqueName": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj",
         "projectName": "casino v2.0",
-        "projectPath": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj",
-        "packagesPath": "C:\\Users\\Волен Дэ Морт\\.nuget\\packages\\",
-        "outputPath": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\obj\\",
+        "projectPath": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\casino v2.0.csproj",
+        "packagesPath": "C:\\Users\\79062\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Practic\\3-4\\casino v2.0\\casino v2.0\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Волен Дэ Морт\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79062\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

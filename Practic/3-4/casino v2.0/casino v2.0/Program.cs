@@ -6,7 +6,8 @@ namespace casino_v2._0
     {
         static void Main()
         {
-            
+            Game play = new Game();
+            play.Start();
         }
     }
 }
