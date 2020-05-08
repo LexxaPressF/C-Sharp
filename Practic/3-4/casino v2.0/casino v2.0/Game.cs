@@ -7,21 +7,26 @@ namespace casino_v2._0
     class Game
     {
         //Свойства
-        public char choice_cont; //Выбор продолжительности игры 
+        private float money_bet; //Размер денежной ставки
+        private bool result; //Успешность ставки
+        private Random rnd_numb = new Random();
+        private int odd; //Четность случайного числа
+        private char choice_cont; //Выбор продолжительности игры 
         public Player player = new Player();
+
         //Методы
         public void Start()
-        {
-            do if (Bet() == true) player.capital += money_bet; else capital -= money_bet;
-            while (choice_cont == 'y' && capital > 0);
-            End();
+        {//Начало и цикл игры
+            do if (Bet() == true) { player.capital += money_bet; player.bet_count += 1; } else player.capital -= money_bet;
+            while (choice_cont == 'y' && player.capital > 0);
+            player.Get_info();
         }
         bool Bet()
-        {
+        {//Процесс ставки
             odd = rnd_numb.Next(0, 666) % 2; //Изменение случайного числа
-            Console.WriteLine("У вас есть " + capital + "$\nСколько поставите?");
+            Console.WriteLine(player.name + ", вы имеете " + player.capital + "$\nСколько поставите?");
             money_bet = float.Parse(Console.ReadLine());
-            while (money_bet > capital)
+            while (money_bet > player.capital)
             {
                 Console.WriteLine("Введите ставку не превыщающую размер вашего капитала: ");
                 money_bet = float.Parse(Console.ReadLine());
@@ -33,14 +38,14 @@ namespace casino_v2._0
             }
             Console.WriteLine("На что поставите? (четное - 0; нечетное - 1)");
         Point:
-            choice = int.Parse(Console.ReadLine());
-            switch (choice)
+            player.choice = int.Parse(Console.ReadLine());
+            switch (player.choice)
             {
                 case 0: Console.WriteLine("Ваш выбор: " + money_bet + "$ на четное"); break;
                 case 1: Console.WriteLine("Ваш выбор: " + money_bet + "$ на нечетное"); break;
                 default: Console.WriteLine("ВВедите верное значение"); goto Point;
             };
-            if (odd == choice)
+            if (odd == player.choice)
             {
                 result = true;
                 Console.WriteLine("Ставка сыграла");
