@@ -1,0 +1,13 @@
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.AssemblyInfoInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.AssemblyInfo.cs
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\bin\Debug\netcoreapp3.1\learning_сentre.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\bin\Debug\netcoreapp3.1\learning_сentre.deps.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\bin\Debug\netcoreapp3.1\learning_сentre.runtimeconfig.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\bin\Debug\netcoreapp3.1\learning_сentre.runtimeconfig.dev.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\bin\Debug\netcoreapp3.1\learning_сentre.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\bin\Debug\netcoreapp3.1\learning_сentre.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Homework\learning_сentre\learning_сentre\obj\Debug\netcoreapp3.1\learning_сentre.genruntimeconfig.cache
