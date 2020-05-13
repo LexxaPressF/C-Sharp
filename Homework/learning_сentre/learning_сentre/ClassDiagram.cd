@@ -3,7 +3,7 @@
   <Class Name="learning_сentre.Admin">
     <Position X="1.25" Y="3.25" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAEAAAAAA=</HashCode>
       <FileName>Admin.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -28,5 +28,20 @@
       <FileName>Student.cs</FileName>
     </TypeIdentifier>
   </Class>
+  <Class Name="learning_сentre.Professor">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAgAAAAAAAAAAAQAAAEAAAEAAAAAAAAAhA=</HashCode>
+      <FileName>Professor.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Interface Name="learning_сentre.IEmployee">
+    <Position X="5.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAABA=</HashCode>
+      <FileName>IEmployee.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>

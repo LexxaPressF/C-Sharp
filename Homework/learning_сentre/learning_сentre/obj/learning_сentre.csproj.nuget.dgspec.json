@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj": {}
+    "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj": {}
   },
   "projects": {
-    "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj": {
+    "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj",
+        "projectUniqueName": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj",
         "projectName": "learning_сentre",
-        "projectPath": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj",
-        "packagesPath": "C:\\Users\\Волен Дэ Морт\\.nuget\\packages\\",
-        "outputPath": "G:\\11111111111111111111111111\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\obj\\",
+        "projectPath": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\learning_сentre.csproj",
+        "packagesPath": "C:\\Users\\79062\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\79062\\Desktop\\Study\\C#\\C-Sharp\\Homework\\learning_сentre\\learning_сentre\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Волен Дэ Морт\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\79062\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
