@@ -9,3 +9,16 @@ C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.AssemblyInfo.cs
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.dll
 C:\Users\79062\Desktop\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\bin\Debug\netcoreapp3.1\casino v2.0.exe
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\bin\Debug\netcoreapp3.1\casino v2.0.deps.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\bin\Debug\netcoreapp3.1\casino v2.0.runtimeconfig.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\bin\Debug\netcoreapp3.1\casino v2.0.runtimeconfig.dev.json
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\bin\Debug\netcoreapp3.1\casino v2.0.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\bin\Debug\netcoreapp3.1\casino v2.0.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.csprojAssemblyReference.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.csproj.CoreCompileInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.AssemblyInfoInputs.cache
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.AssemblyInfo.cs
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.dll
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.pdb
+G:\11111111111111111111111111\Study\C#\C-Sharp\Practic\3-4\casino v2.0\casino v2.0\obj\Debug\netcoreapp3.1\casino v2.0.genruntimeconfig.cache
